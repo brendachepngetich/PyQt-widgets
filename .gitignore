@@ -1,0 +1,5 @@
+/.vscode
+/background_workers.py
+/getcapabilities.py
+/getfeatures.py
+/plugin.py
